@@ -44,9 +44,6 @@
     display: grid;
     grid-template-columns: 10% 80% 10%;
     grid-template-areas: "side footer side";
-    position: fixed;
-    bottom: 0;
-    z-index: 10;
     background-color: #242728;
     color: #b7b0a7;
 }
