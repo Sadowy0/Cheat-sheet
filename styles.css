@@ -20,7 +20,7 @@
     height: 80px;
     width: 100%;
     display: grid;
-    grid-template-columns: 15% 70% 15%;
+    grid-template-columns: 10% 80% 10%;
     grid-template-areas: "side nav side";
     position: fixed;
     top: 0;
@@ -32,7 +32,7 @@
     height: 4000px;
     width: 100%;
     display: grid;
-    grid-template-columns: 15% 70% 15%;
+    grid-template-columns: 10% 80% 10%;
     grid-template-areas: "side main side";
     padding-top: 100px;
     background-color: #33383a;
@@ -42,7 +42,7 @@
     height: 80px;
     width: 100%;
     display: grid;
-    grid-template-columns: 15% 70% 15%;
+    grid-template-columns: 10% 80% 10%;
     grid-template-areas: "side footer side";
     position: fixed;
     bottom: 0;
